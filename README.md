@@ -23,7 +23,7 @@ Yet another <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on 
 
 ## Install
 
-Believe it or not, I currently can't provide anything than fork the project. I'm at the stage of learning. Yes, still. (PR welcome! )
+I should say sorry, but I currently can't provide anything than fork the project. I'm at the stage of learning. Yes, still. (PR welcome! )
 
 Build it yourself. Supports Windows, Linux and macOS 10.15+
 
