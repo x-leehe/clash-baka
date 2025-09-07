@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-Yet another <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="https://github.com/tauri-apps/tauri">tauri</a>.
+Yet another <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="https://github.com/tauri-apps/tauri">tauri</a>. Forked from the runaway Clash Verge. 
 </h3>
 
 ## Features
