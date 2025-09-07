@@ -1,12 +1,12 @@
 <h1 align="center">
   <img src="./src/assets/image/logo.png" alt="Clash" width="128" />
   <br>
-  Clash Verge
+  Clash Baka
   <br>
 </h1>
 
 <h3 align="center">
-A <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="https://github.com/tauri-apps/tauri">tauri</a>.
+Yet another <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="https://github.com/tauri-apps/tauri">tauri</a>.
 </h3>
 
 ## Features
