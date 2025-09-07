@@ -23,16 +23,9 @@ A <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="h
 
 ## Install
 
-Download from [release](https://github.com/zzzgydi/clash-verge/releases). Supports Windows x64, Linux x86_64 and macOS 11+
+Believe it or not, I currently can't provide anything than fork the project. I'm at the stage of learning. Yes, still. (PR welcome! )
 
-- [Windows x64](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64_en-US.msi)
-- [macOS intel](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg)
-- [macOS arm](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_aarch64.dmg)
-- [Linux AppImage](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.AppImage)
-- [Linux deb](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.deb)
-- [Fedora Linux](https://github.com/zzzgydi/clash-verge/issues/352)
-
-Or you can build it yourself. Supports Windows, Linux and macOS 10.15+
+Build it yourself. Supports Windows, Linux and macOS 10.15+
 
 Notes: If you could not start the app on Windows, please check that you have [Webview2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section) installed.
 
@@ -76,7 +69,7 @@ yarn build
 
 ## Todos
 
-> This keng is a little big...
+> Learn the code struct and the Language ASAP :(
 
 ## Screenshots
 
