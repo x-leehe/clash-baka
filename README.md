@@ -71,6 +71,8 @@ yarn build
 
 > Learn the code struct and the Language ASAP :(
 
+我好想把界面改成这种样式，真的好好看呜呜[Expected Style from BakaXL Project]("./docs/屏幕截图 2025-09-07 183236.png")
+
 ## Screenshots
 
 <div align="center">
