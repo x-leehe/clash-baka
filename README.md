@@ -12,7 +12,7 @@ Yet another <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on 
 ## Features
 
 - Full `clash` config supported, Partial `clash premium` config supported.
-- Profiles management and enhancement (by yaml and Javascript). [Doc](https://github.com/zzzgydi/clash-verge/wiki/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
+- Profiles management and enhancement (by yaml and Javascript). [Doc](https://github.com/zzzgydi/clash-Baka/wiki/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
 - Simple UI and supports custom theme color.
 - Built-in support [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) core.
 - System proxy setting and guard.
@@ -31,9 +31,9 @@ Notes: If you could not start the app on Windows, please check that you have [We
 
 ### FAQ
 
-#### 1. **macOS** "Clash Verge" is damaged and can't be opened
+#### 1. **macOS** "Clash Baka" is damaged and can't be opened
 
-open the terminal and run `sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Verge.app`
+open the terminal and run `sudo xattr -r -d com.apple.quarantine /Applications/Clash\ Baka.app`
 
 ## Development
 
@@ -103,7 +103,7 @@ Issue and PR welcome!
 
 ## Acknowledgement
 
-Clash Verge was based on or inspired by these projects and so on:
+Clash Baka was based on or inspired by these projects and so on:
 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Dreamacro/clash](https://github.com/Dreamacro/clash): A rule-based tunnel in Go.
